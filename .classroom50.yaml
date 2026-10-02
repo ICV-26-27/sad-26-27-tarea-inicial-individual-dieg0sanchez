@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "sad-26-27"
+assignment: "tarea-inicial-individual"
+owner:
+  username: "Dieg0Sanchez"
+  id: 113969756
+  accepted_at: "2026-10-02T06:39:58Z"
